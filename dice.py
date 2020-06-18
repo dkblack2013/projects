@@ -51,3 +51,5 @@ while go != 'y':
     #input 'go' value to determine the next roll
     go = input()
 print("Thank you for playing!")
+
+print('See you next time!')
